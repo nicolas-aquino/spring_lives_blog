@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class IdResponseDTO {
+public class SuccessCreateResponseDTO {
     private String id;
 }
